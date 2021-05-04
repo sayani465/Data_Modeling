@@ -1,0 +1,4 @@
+membership_type_id,membership_name,created_date,updated_date
+101,Silver,2020-06-01 00:00:00,2020-06-01 00:00:00
+102,Gold,2020-11-01 00:00:00,2020-11-01 00:00:00
+103,Platinum,2021-01-01 00:00:00,2021-01-01 00:00:00
